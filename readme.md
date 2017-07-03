@@ -4,7 +4,7 @@ Adds History API support to nette.ajax.js addon for Nette Framework!
 
 ## Installation
 
-1. Link `client-side/history.ajax.js` after `nette.ajax.js`.
+1. Link `index.js` after `nette.ajax.js`.
 2. Load PHP files with Composer: `vojtech-dobes/nette-ajax-history`
 3. Register config extension in your configuration:
 
