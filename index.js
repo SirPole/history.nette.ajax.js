@@ -1,4 +1,5 @@
 (function ($) {
+  'use strict'
   // Is History API reliably supported? (based on Modernizr & PJAX)
   if (!(window.history && history.pushState && window.history.replaceState)) {
     return
